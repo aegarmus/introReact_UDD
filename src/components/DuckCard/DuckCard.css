@@ -1,0 +1,22 @@
+.card {
+    padding: 1rem;
+
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #454565;
+
+    width: 18rem;
+    height: auto;
+
+    transition: .5s;
+}
+
+.card__title {
+    text-align: center;
+    margin: 1rem 0; 
+}
+
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px var(--primary-color);
+}

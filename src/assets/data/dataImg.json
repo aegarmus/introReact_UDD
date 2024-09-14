@@ -1,0 +1,14 @@
+[
+    {
+        "img": "http://localhost:5173/img/walkin-duck.jpg",
+        "name": "Walkin' Duck",
+        "description": "Un patito que caminas con sus piernitas",
+        "alt": "Imagen de un patito caminando"
+    },
+    {
+        "img": "http://localhost:5173/img/wulking-duck-cool.gif",
+        "name": "Walkin' Duck with a hat",
+        "description": "Un patito que caminas con sus piernitas y un sombrero ruso",
+        "alt": "Imagen de un patito caminando con sombrero"
+    }
+]
